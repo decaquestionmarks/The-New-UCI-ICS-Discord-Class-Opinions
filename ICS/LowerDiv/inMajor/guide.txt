@@ -1,0 +1,13 @@
+ICS 6B (Boolean Logic and Discrete Structure)
+ICS 6D (Discrete Mathematics for Computer Science)
+ICS 6N (Computational Linear Algebra)
+ICS 31 (Intro. to Programming)
+ICS 32 (Programming with Software Libraries)
+ICS H32 (Python Programming and Libraries (Accelerated))
+ICS 33 (Intermediate Programming)
+ICS 45C (Programming in C/C++ as a Second Language)
+ICS 45J (Programming in Java as a Second Language)
+ICS 46 (Data Structure Implementation and Analysis)
+ICS 51 (Introductory Computer Organization)
+ICS 53 (Principles in System Design)
+
