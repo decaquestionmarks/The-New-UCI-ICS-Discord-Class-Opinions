@@ -1,0 +1,4 @@
+CS 151 (Digital Logic Design)
+CS 152 (Computer Architecture)
+CS 154 (Computer Design Lab)
+

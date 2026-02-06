@@ -1,0 +1,5 @@
+CS 180A&B (Project in Computer Science)
+CS 183 (Into. to Computational Biology)
+CS 184A (Artificial Intelligence in Biology and Medicine)
+CS 184C (Computational Systems Biology)
+CS 189 (Project in Bioinformatics)

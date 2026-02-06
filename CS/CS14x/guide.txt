@@ -1,0 +1,10 @@
+CS 141 (Concepts in Programming Languages)
+CS 142A (Compilers and Interpreters)
+CS 142B (Project in Compilers and Interpreters)
+CS 143A (Principles of Operating Systems)
+CS 143B (Project in Operating System Organization)
+CS 145 (Embedded Software)
+CS 146 (Programming in Multitasking Operating Systems)
+CS 147 (Internet of Things (IoT) Software and Systems)
+
+

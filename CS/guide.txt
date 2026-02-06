@@ -1,0 +1,10 @@
+CS 11X (Computer Graphics and Vision)
+CS 12X (Databases)
+CS 13X (Networks)
+CS 14X (Compilers and Systems)
+CS 15X (Architecture)
+CS 16X (Algorithms)
+CS 17X (Artificial Intelligence)
+CS 18X (Computational Biology and that one Project Course)
+CS 19X (Research)
+Grad CS Grad Classes

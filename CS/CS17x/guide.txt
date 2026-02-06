@@ -1,0 +1,8 @@
+CS 171 (Intro. to Artificial Intelligence)
+CS 172B (Neural Networks and Deep Learning)
+CS 172C (Artificial Intelligence Frontiers: Technical, Ethical, and Societal)
+CS 175 (Project in Artificial Intelligence)
+CS 177 (Applications of Probability in Computer Science)
+CS 178 (Machine Learning and Data-Mining)
+CS 179 (Algorithms for Probabilistic and Deterministic Graphical Models)
+

@@ -1,0 +1,9 @@
+CS 161 (Design and Analysis of Algorithms)
+CS 162 (Formal Languages and Automata)
+CS 163 (Graph Algorithms)
+CS 164 (Computational Geometry)
+CS 165 (Project in Algorithms and Data Structures)
+CS 166 (Quantum Computation and Information)
+CS 167 (Intro. to Applied Cryptography)
+CS 169 (Intro. to Optimization)
+

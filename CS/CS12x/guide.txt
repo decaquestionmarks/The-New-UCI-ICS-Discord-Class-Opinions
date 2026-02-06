@@ -1,0 +1,8 @@
+CS 121 (Information Retrieval)
+CS 122A (Intro. to Data Management)
+CS 122B (Project in Databases and Web Applications)
+CS 122C (Principles of Data Management)
+CS 122D (Beyond SQL Data Management)
+CS 125 (Next Generation Search Systems)
+
+
