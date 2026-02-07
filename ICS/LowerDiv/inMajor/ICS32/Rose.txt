@@ -1,0 +1,1 @@
+Ibrahim F23: Professor Ibrahim’s course was easy compared to others’ but is no longer available. The course was an introduction to working with libraries in Python, such as the socket library and tkinter. The grading model was very forgiving and the course pace was slow.
