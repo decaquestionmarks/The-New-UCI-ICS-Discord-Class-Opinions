@@ -1,0 +1,10 @@
+tldr: Can't give much of an opinion here 
+
+This class is solely for you to make a project. I took it with Kask, but 
+it doesn't really matter who's supervising you since you can work on basically
+anything AI related. This is a good experience for building teamwork skills
+and getting a nice project out of it.
+
+Kask: Focuses on teaching RL during the first three weeks, then there's no in-person
+meetings. (10/10)
+
