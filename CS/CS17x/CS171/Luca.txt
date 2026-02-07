@@ -1,0 +1,14 @@
+tldr: Meh
+
+CS171 is a good class depending on who you take it with. 
+
+If you categorize AI into GOFAI, ML, and DL, its mostly GOFAI with a bit of ML.
+
+Kask (I took): Kask's 171 took too long on "outdated" things, such as first and second 
+order logic (which you would already know), constraint satisfaction, Bayesian networks, ETC.
+The one part of Kask's class you might find interesting is Monte Carlo techniques for 
+adversarial games, which are a big part of what is needed for his project. (5/10)
+
+Koenig (Didn't take): I have heard great things about Koenig's offering of 171. He delves into
+more "practical" parts of GOFAI, and some ML, such as Simulated Annealing, RL,
+so on and so forth. This is your ideal "CS17X" precursor class.

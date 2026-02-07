@@ -1,0 +1,9 @@
+tldr: Great class
+
+CS177 is stats. Just stats. The reason I say this is because it doesn't really fit 
+into the "AI" part of CS17X at a glance, but it teaches you the backbone behind 
+many of the probabilistic models you see in ML + DL. This course helps to understand
+certain DL problems you might face later.
+
+Sudderth: Amazing professor - class is taught really well, and things are taught intuitively.
+(10/10)
