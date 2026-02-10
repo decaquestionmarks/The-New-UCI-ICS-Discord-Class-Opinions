@@ -1,0 +1,9 @@
+tldr: Important class!
+
+CS178 is machine learning, and a plunge into the deep end. Without an ML background,
+this class puts you through the wringer. You'll have to learn a lot each week.
+I personally advise you to look up "Statquest" as it'll be helpful in dumbing down what you
+learn in class such that you understand it later.
+
+Berg: Really good professor with a great background (He worked on a foundational CV paper),
+despite some mishaps with the teaching of the class, it's not super bad (7/10)
