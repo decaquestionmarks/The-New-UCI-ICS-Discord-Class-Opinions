@@ -1,0 +1,7 @@
+W24 Armstrong
+
+In my opinion, this class is just a giant nothingburger… and I don’t really mind. The class is very similar to Nicolau’s ICS 51 where the instructor could care less about making the course actually rigorous and demanding (and acknowledges that the course is easy). However, the key difference between Armstrong’s STATS 67 and Nicolau’s ICS 51 is the fact that I actually feel like I learned something in STATS 67.
+
+The content is really simple — you go over basic probability, combinatorics, a couple distributions, and an intro to linear regression. You can’t make this hard even if you wanted to. As a result, most of your learning is done through watching videos recorded by Armstrong, and then he goes over some examples in the in-person lecture (which as you would expect, almost nobody attends). You take a video quiz and a lecture quiz with most lectures, and you take an occasional course quiz that’s more comprehensive and takes up a larger portion of your grade. All of these are on Canvas. All of these can be done without attending a single lecture.
+
+The videos are very rugged and unpolished, but they get the job done. You learn the content, take the corresponding quizzes, and move on. The course could be structured better, sure, but for a class where the instructor puts in minimal effort, this class is pretty okay. Don’t come into this expecting much (for what it’s worth, the other instructors for STATS 67 follow a more traditional class structure, if that’s what you’re looking for).

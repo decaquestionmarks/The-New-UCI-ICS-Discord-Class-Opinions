@@ -1,0 +1,7 @@
+W23 Thornton
+
+A well-done sequel to ICS 32A, diving even deeper into Python’s design and the possibilities of everyone’s favorite snake-like programming language. By the time you end this course, you’ll have a very deep understanding of Python and why it is designed the way that it is, while also learning other core components of CS (like O-notation and OOP) in the process. It is also widely considered one of the “weeders” of the CS major, and I agree with that statement. Do not underestimate this course. Even if you got through 32A with no effort, I would strongly suggest that you actually give it your all this time. He has nerfed the course since I took it, but I think it’s still a pretty challenging course.
+
+The course structure is the same, but the content is much more difficult to wrap your head around, since it gets really deep into the nooks and crannies of a language you learned the basics of approximately 3 (or maybe 6) months ago. A lot of the comments I made about ICS 32A can also be applied to ICS 33.
+
+However, be wary of the final. Due to the sheer difficulty of the course content, this final is not merciful in the slightest. You can read the notes all you want, but if you don’t have a good understanding for why everything is the way that it is (this means you should generate hypotheses and test them yourself to solidify your understanding), you will struggle immensely. Niche details and edge cases are very likely to show up, but they can be reasoned about very well if you have a solid understanding.

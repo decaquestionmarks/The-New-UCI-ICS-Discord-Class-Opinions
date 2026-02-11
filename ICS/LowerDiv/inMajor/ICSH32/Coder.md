@@ -1,0 +1,9 @@
+F22 Thornton
+
+This class is fast-paced, and this is made clear from the start — if you are enrolled in this course, you should theoretically have prior programming experience and should therefore be able to pick up a new language really quickly. The bare basics of Python syntax are taught in the first two weeks, and then it’s straight into normal ICS 32 content. This expands your horizons from programming simple programs to using this language for possible real-world applications by applying Python’s vast libraries.
+
+Thornton’s projects reflect this — every project is geared toward what could perhaps be adjacent to a real-world application of your programming skills, and there is very little starter code. For this reason, expect to spend a lot of time on these projects. You are essentially programming an entire application from near-scratch (according to specifications). This means hundreds of lines of code. For most people, this will be extremely daunting (realistically, your longest program in high school probably barely cracked 100 lines), but in the end, it is very rewarding.
+
+Reinforcement sets are assigned (almost) weekly, and they help reinforce the content you’ve learned in the lecture by asking you to consider a different approach, explain the “why” behind something, or write up a small program. These skills will be crucial for the final (but really, it’s just good for learning in general).
+
+In lectures, Thornton essentially presents the notes he has written up on his website, usually with live demonstrations of code writing. Some people might find this dry or repetitive (and thus skip out on attending lectures altogether), but I personally found this to be very eye-opening and insightful. While you could perform well on all the assignments and ace the final without attending a single lecture, there is something special about hearing the insights and thoughts in real-time to understand why Python does what it does.

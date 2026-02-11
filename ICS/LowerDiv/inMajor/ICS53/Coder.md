@@ -1,0 +1,9 @@
+S24 Wong-ma
+
+This course is a textbook example of “you get what you put into it.” This course has a reputation for being the hardest lower-division course in the CS major — I disagree, believing that this honor belongs to ICS 46. It is, however, the lower-division course with the heaviest workload, and that seems entirely reasonable since the course is 6 units.
+
+As for Wong-ma, you either love her or you hate her. She’s designed a rigorous course and has put up with a lot of students complaining about the difficulty of it — as you would expect, her patience has waned thin, and for good reason. 
+
+It’s a good course, but it demands a lot of you (this work actually does benefit your learning experience). Make sure you can actually spare the time to attend lectures, go over concepts, and ask for help. It’s a course you should ideally take when you feel ready to tackle it, but do not put it off until your final year. This is still a course you should take relatively early, ideally when you feel most comfortable with pointer arithmetic and C++ programming (so if you performed well in ICS 45C and ICS 46, take ICS 53 immediately). Even if you never plan on going into systems programming, a good chunk of the concepts presented here are pretty important. You start with a 2-week crash course in C (unironically the heaviest part of the class) before going into the shell, memory allocation, threading, and caching.
+
+This is not a course you want to slack off in — you will fall behind if you do. If you stay on top of things, you will be fine. As long as you understand the concepts, the mini-tests/midterms (whatever term she feels like using for the quarter) are honestly not bad, and they are extremely doable. Final is a bit of a leg-up in difficulty but is still very manageable. Just watch out for the homeworks — they can be complicated and long.
