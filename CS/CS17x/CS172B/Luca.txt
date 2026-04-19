@@ -1,0 +1,12 @@
+tldr: So good its a religious experience.
+
+You should take CS172B if you're interested in the math behind Neural Networks, simply put.
+It's very theory heavy, and you will need to put some time outside of class to understand
+things deeply. However, it will fully clarify how deep learning works.
+
+Baldi: Baldi has been working with neural networks since the 2000's, works on
+a variety of deep learning research, and is extremely well educated. His classes move
+fast, but if you pay attention, you will get an incredible amount of experience out of it.
+
+Additionally, he has a project requiring the use of a neural network, which I think 
+is great for your resume, if it benefits from a DL project. (10/10)

@@ -1,0 +1,9 @@
+tldr: Nerd zone ;o 
+
+This class teaches you graphical models, which are a sort of "continuation"
+of CS171. Most models discussed won't be of use to you in industry, but
+some important ones (Variational Autoencoder, Mixture of Gaussians, HMM) will be.
+
+Ihler: Ihler knows a lot about this subject, and teaches it very well. However, I took
+this class without taking CS177, which I think made me very confused on some subjects. Don't
+take Ihler's class in a rush (10/10)
